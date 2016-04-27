@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/FunctionGraphs.jar"/>
+	<classpathentry kind="lib" path="dist/lib/exp4j-0.4.5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/cipri_000/Downloads/batik-all-1.7.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
